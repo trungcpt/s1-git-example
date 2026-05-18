@@ -1,3 +1,5 @@
 Hello
 
 feature A
+
+feature B
